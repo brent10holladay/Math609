@@ -42,4 +42,6 @@ for n in range(1,9):
     plt.ylabel('u')
     plt.legend()
     plt.grid(True)
-    plt.title('Solution for n = {}'.format(n))
+
+    plt.title('Solution for n = 1,2,...,8')
+plt.show()
